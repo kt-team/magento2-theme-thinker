@@ -1,4 +1,4 @@
-# KT-TEAM Start Magento2 Theme
+# KT-TEAM Start theme
 
 ## Features
 
