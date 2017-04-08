@@ -1,1 +1,1 @@
-# magento2-theme-optimist
+# magento2-theme-start
