@@ -6,3 +6,4 @@
 * ImageSlider based on Owl carousel
 * Separate mini-product item for catalog/related/up-sells/cross-sells
 * Remove gallery/gallery.css on product page.
+* One line products of "Hot Selllers" on home page.
