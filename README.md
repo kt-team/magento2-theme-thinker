@@ -13,3 +13,5 @@
 * Multiple Color Skins support (White, Black…)
 * Live CSS Editor
 * Support Tablet layout
+* Select2
+* SnowdogApps Menu https://github.com/SnowdogApps/magento2-menu
