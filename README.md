@@ -8,10 +8,5 @@
 * Remove gallery/gallery.css on product page.
 * One line products of "Hot Selllers" on home page.
 * Quickview Feature
-* Blog Module
-* Brands Module
-* Multiple Color Skins support (White, Black…)
-* Live CSS Editor
-* Support Tablet layout
 * Select2
 * SnowdogApps Menu https://github.com/SnowdogApps/magento2-menu
