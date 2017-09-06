@@ -11,3 +11,4 @@
 * Upsells/Related in tabs on home page (optional)
 * Footer clolumns represent on mobile with accordion
 * Use DropdownDialog for myaccount menu
+* Support Tablet media queries
