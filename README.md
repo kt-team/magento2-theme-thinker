@@ -2,6 +2,8 @@
 
 ## TODO Features
 
+This theme based on Luma.
+
 * ImageSlider based on Owl carousel
 * Separate mini-product item for catalog/related/up-sells/cross-sells
 * "Hot Selllers" on home page with Owl Carousel
