@@ -1,5 +1,7 @@
 # KT-TEAM Start theme
 
+Magento2 starter theme with a modern development workflow
+
 ## TODO Features
 
 This theme based on Luma.
