@@ -1,4 +1,4 @@
-# KT-TEAM Start theme
+# Thinker
 	
 Thinker is Magento2 starter theme with a modern development workflow
 
