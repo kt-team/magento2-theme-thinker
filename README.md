@@ -1,6 +1,6 @@
 # KT-TEAM Start theme
-
-Magento2 starter theme with a modern development workflow
+	
+Thinker is Magento2 starter theme with a modern development workflow
 
 ## TODO Features
 
